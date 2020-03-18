@@ -1,6 +1,6 @@
 package mpv
 
-//#include <mpv/client.h>
+//#include <libmpv/client.h>
 import "C"
 
 //Errors mpv_error

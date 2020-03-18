@@ -1,7 +1,7 @@
 package mpv
 
 /*
-#include <mpv/opengl_cb.h>
+#include <libmpv/opengl_cb.h>
 extern void* getProcAddr(void*fn_ctx,char* text);
 
 */

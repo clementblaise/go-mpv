@@ -1,10 +1,8 @@
 package main
 
 import (
-	"log"
-	//	"time"
-
 	"github.com/yourok/go-mpv/mpv"
+	"log"
 )
 
 func eventListener(m *mpv.Mpv) chan *mpv.Event {
